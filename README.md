@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Dilli Karuru
 
-### 🚀 Profession / Current Role
+### 🚀 Profession
 **Data Engineer** specializing in building scalable and reliable data pipelines.
 
 ### 🛠️ Top Skills & Technologies
