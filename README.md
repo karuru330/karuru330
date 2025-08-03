@@ -12,7 +12,7 @@
 
 - **Python**: My primary language for data engineering tasks.
 - **AWS**: Experienced with cloud services, ETL workflows, and infrastructure automation.
-- 
+  
 ### 🌟 Notable Projects
 - [ServiceNow Data Analysis](https://github.com/karuru330/service-now-data-analysis): Using ServiceNow data for actionable business insights.
 - [More Projects](https://karuru330.github.io/portfolio/): Explore my portfolio for more!
