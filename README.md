@@ -3,6 +3,10 @@
 ### 🚀 Profession
 **Data Engineer** specializing in building scalable and reliable data pipelines.
 
+### 🎓 Academic Experience
+- **Bachelor of Technology in Computer Science And Engineering**  
+  IIIT RK Valley, 2020
+
 ### 🛠️ Top Skills & Technologies
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
